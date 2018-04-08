@@ -16,23 +16,23 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: SQL Injection (SQLi)
+Vulnerability #1: SQL Injection (SQLi) ![GIF](https://github.com/kballard237/CodePathWeek8/blob/master/SQL_Injection.gif)
 
-Vulnerability #2: Session Hijacking/Fixation
+Vulnerability #2: Session Hijacking/Fixation ![GIF](https://github.com/kballard237/CodePathWeek8/blob/master/Session_Hijacking.gif)
 
 
 ## Green
 
-Vulnerability #1: Username Enumeration
+Vulnerability #1: Username Enumeration ![GIF](https://github.com/kballard237/CodePathWeek8/blob/master/Username_Enumeration.gif)
 
-Vulnerability #2: Cross-Site Scripting (XSS)
+Vulnerability #2: Cross-Site Scripting (XSS) ![GIF](https://github.com/kballard237/CodePathWeek8/blob/master/Cross_Site_Scripting.gif)
 
 
 ## Red
 
-Vulnerability #1: Insecure Direct Object Reference (IDOR)
+Vulnerability #1: Insecure Direct Object Reference (IDOR) ![GIF](https://github.com/kballard237/CodePathWeek8/blob/master/IDOR.gif)
 
-Vulnerability #2: Cross-Site Request Forgery (CSRF)
+Vulnerability #2: Cross-Site Request Forgery (CSRF) ![GIF](https://github.com/kballard237/CodePathWeek8/blob/master/CSRF.gif)
 
 
 ## Notes
