@@ -37,4 +37,4 @@ Vulnerability #2: Cross-Site Request Forgery (CSRF) ![GIF](https://github.com/kb
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+For IDOR, I was originally testing the id values while logged in. I had to logout to find the salespeople that were missing from the public site. For Username Enumeration, it took a while for me to pick up on the subtle change in the text. 
